@@ -21,6 +21,6 @@ We are going to consider the following strategies for the players.
 - **Cooperator:** he always cooperates.
 - **Rancorous:** he always cooperates. The first time someone cheats him, he will always cheat this player.
 - **Righteous:** If the other player cooperated in the last step they played together, he cooperates. Otherwise, he cheats. We have to take into account the first move :
-    - He cheats
-    - He cooperates
-    - He randomly choose
+    1. He cheats
+    2. He cooperates
+    3. He randomly choose
